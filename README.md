@@ -17,9 +17,9 @@ However, with jspsych we lose some of the control we used to have in the lab.
 
 # Hard Concessions
 1. Lack of control on the physical properties of the stimulus.
-  - We have no control over how loud the participant sets her audio.
-  - We have no prior knowledge on the display resolution and or size
-  - etc.
+    - We have no control over how loud the participant sets her audio.
+    - We have no prior knowledge on the display resolution and or size
+    - etc.
 2. It is harder to see whether the participant is making a cup of tea during
    the experiment.
   
