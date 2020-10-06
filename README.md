@@ -1,5 +1,5 @@
-# jspsych-concessions
-A brief summery on the concessions we have to make in order to work with jspsych.
+# jsPsych-concessions
+A brief summery on the concessions we have to make in order to work with jsPsych.
 
 # Introduction
 In the lab we have very good control of the stimuli that we present using ZEP-x.y.
@@ -8,7 +8,7 @@ control window. ZEP stores the data into it's database and the user is able
 to extract the data to a ".csv" file on the pc on which can be imported in a
 spreatsheet program.
 
-However, with jspsych we lose some of the control we used to have in the lab.
+However, with jsPsych we lose some of the control we used to have in the lab.
 
 Here I'm making a difference in two categories of concessions we have to make.
 The ones that are fixable to a extend, we can code something together to work
@@ -46,7 +46,7 @@ are also problems that are really hard which I think are unsolvable.
 # Disscusion
 We lose some control over an experiment by running it online instead of the
 lab. Some of the concessions that we have to make are mitigated because its easier
-to measure more people online than participants in the lab. Mearusring more
+to measure more people online than participants in the lab. Measuring more
 people might reduce the noise that exists due to the lack of control.
 It depends on how much control you are willing to sacrifice in order to
 run an experiment online.
