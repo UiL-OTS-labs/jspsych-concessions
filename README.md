@@ -15,7 +15,7 @@ The ones that are fixable to a extend, we can code something together to work
 around problems that are more trivially solved in the lab. In contrast there
 are also problems that are really hard which I think are unsolvable.
 
-# Concessions for wich a work around might exist.
+# Concessions for which a work around might exist.
 1. Currently we pick groups/lists randomly. Even with the server online it will
    be harder and less controlled than to assign a participant manually to
    a group.
