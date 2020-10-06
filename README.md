@@ -46,7 +46,7 @@ are also problems that are really hard wich I think are unsolvable.
 # Disscusion
 We lose some control over an experiment by running it online instead of the
 lab. Some of the concessions that we have to make are mitigated because its easier
-to measure more people online, than participants in the lab. Mearusring more
+to measure more people online than participants in the lab. Mearusring more
 people might reduce the noise that exists due to the lack of control.
 It depends on how much control you are willing to sacrifice in order to
 run an experiment online.
