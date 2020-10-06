@@ -21,7 +21,7 @@ are also problems that are really hard which I think are unsolvable.
    a group.
 2. It's harder to import .csv files (but this makes it easier in the end)
     - eeg store stimulus parameters in javascript scripts.
-3. Storage of data on uilots server is not as straightforward.
+3. Storage and retrieval of data on uilots server is not as straightforward.
 
 # Hard Concessions
 1. Lack of control on the physical properties of the stimulus.
