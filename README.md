@@ -13,7 +13,7 @@ However, with jspsych we lose some of the control we used to have in the lab.
 Here I'm making a difference in two categories of concessions we have to make.
 The ones that are fixable to a extend, we can code something together to work
 around problems that are more trivially solved in the lab. In contrast there
-are also problems that are really hard wich I think are unsolvable.
+are also problems that are really hard which I think are unsolvable.
 
 # Concessions for wich a work around might exist.
 1. Currently we pick groups/lists randomly. Even with the server online it will
