@@ -10,8 +10,8 @@ spreatsheet program.
 
 However, with jsPsych we lose some of the control we used to have in the lab.
 
-Here I'm making a difference in two categories of concessions we have to make.
-The ones that are fixable to some extent, we can code something together to work
+Here I'm differentiating between two categories of concessions we have to make.
+The ones that are fixable to some extent, we can code something to work
 around problems that are more trivially solved in the lab. In contrast there
 are also problems that are really hard which I think are unsolvable.
 
@@ -21,27 +21,27 @@ are also problems that are really hard which I think are unsolvable.
    a group.
 2. It's harder to import .csv files (but this makes it easier in the end)
     - eeg store stimulus parameters in javascript scripts.
-3. Storage and retrieval of data on uilots server is not as straightforward.
+3. Storage and retrieval of data on ILS server is not as straightforward.
 
 # Hard Concessions
 1. Lack of control on the physical properties of the stimulus.
     - We have no control over how loud the participant sets her audio.
-    - We have no prior knowledge on the display resolution and or size nor
-      the brightness of the display..
+    - We have no prior knowledge on the display resolution and/or size nor
+      the brightness of the display.
     - A sentence might advance to the next line for participant 1, but not
       for participant 2.
     - etc.
 2. German vs English keyboard layout, a response button might appear on a
    different location for another keyboard layout.
 3. Keyboard vs touchpad (although it might seem easy to easy to ignore
-   mobile devices, many laptops have touchscreens to).
+   mobile devices, many laptops have touchscreens too).
    It would be interesting to see whether there is a reaction time main
-   effect of mobile devices versus pc's.
+   effect of mobile devices versus PCs.
 4. It is harder to see whether the participant is making a cup of tea during
    the experiment.
-5. Probably few participants have speciallized equipment like EEG or 
+5. Probably few participants have specialized equipment like EEG or 
    an Eyetracker at home, even if the required jsPscych modules for
-   controlling a 
+   controlling such an experiment are there.
 
 # Disscusion
 We lose some control over an experiment by running it online instead of the
