@@ -4,8 +4,8 @@ A brief summery on the concessions we have to make in order to work with jsPsych
 # Introduction
 In the lab we have very good control of the stimuli that we present using ZEP-x.y.
 Zep makes it easy to assign a participant to a given group manually using the
-control window. ZEP stores the data into it's database and the user is able
-to extract the data to a ".csv" file on the pc on which can be imported in a
+control window. ZEP stores the data in its database and the user is able
+to extract the data to a ".csv" file on the PC on which can be imported in a
 spreatsheet program.
 
 However, with jsPsych we lose some of the control we used to have in the lab.
@@ -15,12 +15,12 @@ The ones that are fixable to some extent, we can code something to work
 around problems that are more trivially solved in the lab. In contrast there
 are also problems that are really hard which I think are unsolvable.
 
-# Concessions for which a work around might exist.
+# Concessions for which a workaround might exist.
 1. Currently we pick groups/lists randomly. Even with the server online it will
-   be harder and less controlled than to assign a participant manually to
+   be more difficult and less controlled than assigning a participant manually to
    a group.
 2. It's harder to import .csv files (but this makes it easier in the end)
-    - eeg store stimulus parameters in javascript scripts.
+    - eg store stimulus parameters in javascript scripts.
 3. Storage and retrieval of data on ILS server is not as straightforward.
 
 # Hard Concessions
@@ -33,10 +33,10 @@ are also problems that are really hard which I think are unsolvable.
     - etc.
 2. German vs English keyboard layout, a response button might appear on a
    different location for another keyboard layout.
-3. Keyboard vs touchpad (although it might seem easy to easy to ignore
+3. Keyboard vs touchpad (although it might seem easy to ignore
    mobile devices, many laptops have touchscreens too).
-   It would be interesting to see whether there is a reaction time main
-   effect of mobile devices versus PCs.
+   (It would be interesting to see whether there is a reaction time main
+   effect of mobile devices versus PCs.)
 4. It is harder to see whether the participant is making a cup of tea during
    the experiment.
 5. Probably few participants have specialized equipment like EEG or 
@@ -44,7 +44,7 @@ are also problems that are really hard which I think are unsolvable.
    controlling such an experiment are there.
 
 # Disscusion
-We lose some control over an experiment by running it online instead of the
+We lose some control over an experiment by running it online instead of in the
 lab. Some of the concessions that we have to make are mitigated because its easier
 to measure more people online than participants in the lab. Measuring more
 people might reduce the noise that exists due to the lack of control.
